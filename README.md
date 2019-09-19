@@ -1,2 +1,0 @@
-# GeometryInvaders
-* geometric screaming *
